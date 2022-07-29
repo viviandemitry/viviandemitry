@@ -3,6 +3,8 @@
 -  
 - 
 - I’m currently learning .C |.HTML | .CSS | .JavaScript;
+
+
 - Here you can follow my studies and my evolution;
 - 📫 How to reach me: vivian090@gmail.com
 
