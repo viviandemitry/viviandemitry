@@ -12,9 +12,6 @@ Where I have been learning from:
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
 
-Where you can find me:
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-- 
 - 📫 How to reach me: vivian090@gmail.com
 
