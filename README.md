@@ -1,4 +1,4 @@
-👋 Hi, I’m @viviandemitry, Civil Engineer graduated by FEI (University from Brazil) and this year (2022) I had my firt contact with algorithms.
+👋 Hi, I’m @viviandemitry, Engineer graduated by FEI (University from Brazil) and this year (2022) I had my firt contact with algorithms.
 
 ✨ This aroused in me a great interest in programming, then I decided to delve into the frontend area.✨
 
