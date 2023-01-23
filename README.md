@@ -1,4 +1,4 @@
-👋 Hi, I'm Vivian, an engineer interested in technology looking every day to improve my skills in a self-taught way.
+👋 Hi, I'm Vivian, an engineer that loves Design and Technology!
 
 ✨ I've been improving my knowledge of scripting languages and libraries such as HTML5, CSS3, Javascript, Bootstrap and React.✨
 
