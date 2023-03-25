@@ -1,7 +1,7 @@
-<h4 align="center">👋 Hi, I'm Vivian, a developer engineer that loves design and technology!</h4>
+<h4 align="center">👋 Hi, I'm Vivian, a Frontend developer and engineer!</h4>
 
 
-✨ I've been learning and practicing a lot of coding, mainly Frontend technologies, but in the future I wish to learn Backend stacks to become a Fullstack developer.✨
+✨ Here you can check my projects and interests.✨
 
 <h4  align="center">Knowledge: </h4>
 
