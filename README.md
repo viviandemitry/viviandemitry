@@ -1,7 +1,7 @@
 <h4 align="center">👋 Hi, I'm Vivian, a Frontend developer and engineer!</h4>
 
 
-✨ Here you can check my projects and interests.✨
+<h5 align="center">✨ Here you can check my projects and interests.✨</h5>
 
 <h4  align="center">Knowledge: </h4>
 
