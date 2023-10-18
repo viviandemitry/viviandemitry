@@ -1,4 +1,4 @@
-<h4 align="center">👋 Hi, I'm Vivian, a Frontend developer and engineer!</h4>
+<h4 align="center">👋 Hi, I'm Vivian, an engineer with over 4 years of experience in projects, passionate about development!</h4>
 
 
 <h5 align="center">✨ Here you can check my projects and interests.✨</h5>
