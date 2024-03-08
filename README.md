@@ -1,7 +1,7 @@
-<h4 align="center">👋 Hi, I'm Vivian, an engineer with over 3 years of experience in projects, passionate about development!</h4>
+<h4 align="center">👋 Hi, I'm Vivian!</h4>
 
 
-<h5 align="center">✨ Here you can check my projects and interests.✨</h5>
+<h5 align="center">✨ I'm Frontend Engineer passionate for developing and creating!✨</h5>
 
 <h4  align="center">Knowledge: </h4>
 
